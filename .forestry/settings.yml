@@ -7,7 +7,6 @@ sections:
 - type: document
   path: layouts/partials/nav.html
   label: Nav
-  match: "**/*"
 - type: directory
   path: content
   label: Pages

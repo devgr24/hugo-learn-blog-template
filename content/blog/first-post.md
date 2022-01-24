@@ -1,11 +1,16 @@
 ---
-title: "Welcome to CawCannon"
-date: 2021-02-25T15:33:09+13:00
-draft: true
-tags: ["Conservation", "History"]
+title: Welcome to CawCannon
+date: 2021-02-25T15:33:09.000+13:00
+tags:
+- Conservation
+- History
 image: "/fiordland.jpg"
 author: CawCannon
-categories: ["General"]
+categories:
+- General
+- General2
+draft: true
+
 ---
 ## Welcome to our site!  
 
